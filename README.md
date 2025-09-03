@@ -24,3 +24,27 @@ It helps doctors, researchers, and students simulate oncology workflows with **A
 
 ## 📂 Project Structure
 
+---
+
+## 📊 CSV/Excel Upload Format
+
+Your dataset must include the following headers:
+
+
+- **name** → Patient name  
+- **age** → Patient age  
+- **condition** → Cancer type (`Lung Cancer`, `Breast Cancer`, etc.)  
+- **meds** → Medications (comma-separated)
+
+- **Preview Link** -> https://apponcoapp-dvllkjz85fdvfhmnpe8w9j.streamlit.app/
+
+Example:
+
+```csv
+name,age,condition,meds
+Alice Roy,47,Breast Cancer,Doxorubicin,Carboplatin
+Mohan Das,61,Lung Cancer,Ifosfamide,Topotecan,Fluorouracil
+
+
+
+
