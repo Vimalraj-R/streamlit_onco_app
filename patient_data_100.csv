@@ -1,0 +1,101 @@
+name,age,condition,meds
+Patient 1,50,Ovarian Cancer,['Carboplatin – Platinum-based']
+Patient 2,57,Lymphoma,"['Doxorubicin – Anthracycline', 'Trastuzumab – Monoclonal antibody', 'Cyclophosphamide – Alkylating agent', 'Erlotinib – Targeted therapy']"
+Patient 3,58,Colon Cancer,"['Imatinib – Tyrosine kinase inhibitor', 'Erlotinib – Targeted therapy', 'Paclitaxel – Antimicrotubule agent']"
+Patient 4,34,Ovarian Cancer,"['Carboplatin – Platinum-based', 'Trastuzumab – Monoclonal antibody']"
+Patient 5,41,Prostate Cancer,['Carboplatin – Platinum-based']
+Patient 6,46,Leukemia,"['Cyclophosphamide – Alkylating agent', 'Ifosfamide – Alkylating agent']"
+Patient 7,73,Breast Cancer,"['Doxorubicin – Anthracycline', 'Paclitaxel – Antimicrotubule agent']"
+Patient 8,53,Leukemia,"['Carboplatin – Platinum-based', 'Methotrexate – Antimetabolite', 'Imatinib – Tyrosine kinase inhibitor', 'Cisplatin – Platinum-based']"
+Patient 9,53,Skin Cancer,"['Imatinib – Tyrosine kinase inhibitor', 'Carboplatin – Platinum-based', 'Cisplatin – Platinum-based']"
+Patient 10,33,Leukemia,"['Imatinib – Tyrosine kinase inhibitor', 'Methotrexate – Antimetabolite', 'Doxorubicin – Anthracycline']"
+Patient 11,55,Ovarian Cancer,['Methotrexate – Antimetabolite']
+Patient 12,26,Lymphoma,"['Ifosfamide – Alkylating agent', 'Cisplatin – Platinum-based', 'Doxorubicin – Anthracycline']"
+Patient 13,46,Pancreatic Cancer,"['Carboplatin – Platinum-based', 'Imatinib – Tyrosine kinase inhibitor', 'Cisplatin – Platinum-based', 'Methotrexate – Antimetabolite']"
+Patient 14,76,Breast Cancer,"['Carboplatin – Platinum-based', 'Paclitaxel – Antimicrotubule agent']"
+Patient 15,76,Liver Cancer,"['Imatinib – Tyrosine kinase inhibitor', 'Doxorubicin – Anthracycline', 'Paclitaxel – Antimicrotubule agent']"
+Patient 16,57,Lymphoma,"['Erlotinib – Targeted therapy', 'Carboplatin – Platinum-based']"
+Patient 17,38,Lung Cancer,['Erlotinib – Targeted therapy']
+Patient 18,78,Lymphoma,"['Doxorubicin – Anthracycline', 'Methotrexate – Antimetabolite']"
+Patient 19,38,Ovarian Cancer,"['Doxorubicin – Anthracycline', 'Trastuzumab – Monoclonal antibody', 'Methotrexate – Antimetabolite', 'Cisplatin – Platinum-based']"
+Patient 20,45,Colon Cancer,"['Paclitaxel – Antimicrotubule agent', 'Erlotinib – Targeted therapy']"
+Patient 21,47,Lung Cancer,"['Carboplatin – Platinum-based', 'Methotrexate – Antimetabolite', 'Doxorubicin – Anthracycline', 'Paclitaxel – Antimicrotubule agent']"
+Patient 22,55,Colon Cancer,"['Ifosfamide – Alkylating agent', 'Paclitaxel – Antimicrotubule agent']"
+Patient 23,26,Colon Cancer,"['Doxorubicin – Anthracycline', 'Methotrexate – Antimetabolite', 'Paclitaxel – Antimicrotubule agent', 'Trastuzumab – Monoclonal antibody']"
+Patient 24,63,Lung Cancer,"['Ifosfamide – Alkylating agent', 'Erlotinib – Targeted therapy']"
+Patient 25,25,Breast Cancer,"['Paclitaxel – Antimicrotubule agent', 'Trastuzumab – Monoclonal antibody']"
+Patient 26,61,Lymphoma,"['Cisplatin – Platinum-based', 'Imatinib – Tyrosine kinase inhibitor', 'Carboplatin – Platinum-based', 'Methotrexate – Antimetabolite']"
+Patient 27,40,Prostate Cancer,"['Doxorubicin – Anthracycline', 'Ifosfamide – Alkylating agent']"
+Patient 28,60,Liver Cancer,['Imatinib – Tyrosine kinase inhibitor']
+Patient 29,62,Ovarian Cancer,"['Paclitaxel – Antimicrotubule agent', 'Carboplatin – Platinum-based', 'Doxorubicin – Anthracycline', 'Trastuzumab – Monoclonal antibody']"
+Patient 30,38,Liver Cancer,"['Cyclophosphamide – Alkylating agent', 'Doxorubicin – Anthracycline', 'Methotrexate – Antimetabolite']"
+Patient 31,41,Breast Cancer,['Doxorubicin – Anthracycline']
+Patient 32,44,Ovarian Cancer,"['Cyclophosphamide – Alkylating agent', 'Cisplatin – Platinum-based']"
+Patient 33,36,Skin Cancer,"['Trastuzumab – Monoclonal antibody', 'Ifosfamide – Alkylating agent']"
+Patient 34,34,Lung Cancer,"['Imatinib – Tyrosine kinase inhibitor', 'Trastuzumab – Monoclonal antibody', 'Ifosfamide – Alkylating agent']"
+Patient 35,77,Colon Cancer,['Imatinib – Tyrosine kinase inhibitor']
+Patient 36,53,Leukemia,"['Doxorubicin – Anthracycline', 'Methotrexate – Antimetabolite']"
+Patient 37,73,Lung Cancer,"['Carboplatin – Platinum-based', 'Ifosfamide – Alkylating agent', 'Paclitaxel – Antimicrotubule agent']"
+Patient 38,34,Skin Cancer,['Trastuzumab – Monoclonal antibody']
+Patient 39,29,Leukemia,"['Carboplatin – Platinum-based', 'Trastuzumab – Monoclonal antibody', 'Erlotinib – Targeted therapy']"
+Patient 40,32,Breast Cancer,['Paclitaxel – Antimicrotubule agent']
+Patient 41,53,Skin Cancer,"['Ifosfamide – Alkylating agent', 'Imatinib – Tyrosine kinase inhibitor', 'Doxorubicin – Anthracycline']"
+Patient 42,34,Prostate Cancer,['Cisplatin – Platinum-based']
+Patient 43,58,Prostate Cancer,"['Carboplatin – Platinum-based', 'Erlotinib – Targeted therapy', 'Cyclophosphamide – Alkylating agent', 'Paclitaxel – Antimicrotubule agent']"
+Patient 44,50,Lung Cancer,"['Doxorubicin – Anthracycline', 'Cisplatin – Platinum-based', 'Erlotinib – Targeted therapy']"
+Patient 45,51,Pancreatic Cancer,"['Paclitaxel – Antimicrotubule agent', 'Carboplatin – Platinum-based', 'Trastuzumab – Monoclonal antibody', 'Doxorubicin – Anthracycline']"
+Patient 46,36,Ovarian Cancer,"['Doxorubicin – Anthracycline', 'Trastuzumab – Monoclonal antibody', 'Ifosfamide – Alkylating agent']"
+Patient 47,78,Skin Cancer,"['Trastuzumab – Monoclonal antibody', 'Imatinib – Tyrosine kinase inhibitor', 'Cisplatin – Platinum-based', 'Doxorubicin – Anthracycline']"
+Patient 48,66,Colon Cancer,['Cisplatin – Platinum-based']
+Patient 49,51,Ovarian Cancer,"['Imatinib – Tyrosine kinase inhibitor', 'Paclitaxel – Antimicrotubule agent', 'Trastuzumab – Monoclonal antibody']"
+Patient 50,29,Liver Cancer,"['Ifosfamide – Alkylating agent', 'Doxorubicin – Anthracycline', 'Imatinib – Tyrosine kinase inhibitor']"
+Patient 51,65,Breast Cancer,['Erlotinib – Targeted therapy']
+Patient 52,40,Lymphoma,"['Ifosfamide – Alkylating agent', 'Erlotinib – Targeted therapy', 'Cyclophosphamide – Alkylating agent']"
+Patient 53,48,Ovarian Cancer,"['Erlotinib – Targeted therapy', 'Doxorubicin – Anthracycline', 'Cisplatin – Platinum-based']"
+Patient 54,53,Pancreatic Cancer,"['Ifosfamide – Alkylating agent', 'Paclitaxel – Antimicrotubule agent', 'Cyclophosphamide – Alkylating agent', 'Carboplatin – Platinum-based']"
+Patient 55,61,Pancreatic Cancer,"['Methotrexate – Antimetabolite', 'Ifosfamide – Alkylating agent', 'Doxorubicin – Anthracycline']"
+Patient 56,78,Lung Cancer,"['Trastuzumab – Monoclonal antibody', 'Cyclophosphamide – Alkylating agent', 'Ifosfamide – Alkylating agent']"
+Patient 57,74,Lung Cancer,['Ifosfamide – Alkylating agent']
+Patient 58,62,Pancreatic Cancer,"['Paclitaxel – Antimicrotubule agent', 'Ifosfamide – Alkylating agent']"
+Patient 59,48,Breast Cancer,"['Carboplatin – Platinum-based', 'Cyclophosphamide – Alkylating agent']"
+Patient 60,80,Colon Cancer,['Carboplatin – Platinum-based']
+Patient 61,60,Colon Cancer,"['Cyclophosphamide – Alkylating agent', 'Trastuzumab – Monoclonal antibody']"
+Patient 62,58,Leukemia,"['Trastuzumab – Monoclonal antibody', 'Cisplatin – Platinum-based', 'Carboplatin – Platinum-based']"
+Patient 63,32,Lymphoma,"['Ifosfamide – Alkylating agent', 'Methotrexate – Antimetabolite']"
+Patient 64,52,Colon Cancer,"['Imatinib – Tyrosine kinase inhibitor', 'Ifosfamide – Alkylating agent', 'Cisplatin – Platinum-based']"
+Patient 65,32,Lymphoma,"['Carboplatin – Platinum-based', 'Trastuzumab – Monoclonal antibody', 'Doxorubicin – Anthracycline', 'Cisplatin – Platinum-based']"
+Patient 66,40,Liver Cancer,"['Trastuzumab – Monoclonal antibody', 'Ifosfamide – Alkylating agent', 'Methotrexate – Antimetabolite', 'Paclitaxel – Antimicrotubule agent']"
+Patient 67,34,Skin Cancer,"['Cisplatin – Platinum-based', 'Erlotinib – Targeted therapy']"
+Patient 68,30,Prostate Cancer,"['Erlotinib – Targeted therapy', 'Carboplatin – Platinum-based', 'Doxorubicin – Anthracycline']"
+Patient 69,60,Lung Cancer,"['Ifosfamide – Alkylating agent', 'Carboplatin – Platinum-based', 'Cyclophosphamide – Alkylating agent', 'Imatinib – Tyrosine kinase inhibitor']"
+Patient 70,74,Breast Cancer,"['Cyclophosphamide – Alkylating agent', 'Imatinib – Tyrosine kinase inhibitor', 'Carboplatin – Platinum-based', 'Paclitaxel – Antimicrotubule agent']"
+Patient 71,40,Leukemia,"['Methotrexate – Antimetabolite', 'Imatinib – Tyrosine kinase inhibitor']"
+Patient 72,67,Ovarian Cancer,"['Imatinib – Tyrosine kinase inhibitor', 'Paclitaxel – Antimicrotubule agent']"
+Patient 73,64,Ovarian Cancer,"['Methotrexate – Antimetabolite', 'Doxorubicin – Anthracycline']"
+Patient 74,37,Lymphoma,['Imatinib – Tyrosine kinase inhibitor']
+Patient 75,73,Skin Cancer,"['Paclitaxel – Antimicrotubule agent', 'Methotrexate – Antimetabolite', 'Imatinib – Tyrosine kinase inhibitor', 'Ifosfamide – Alkylating agent']"
+Patient 76,41,Colon Cancer,"['Ifosfamide – Alkylating agent', 'Imatinib – Tyrosine kinase inhibitor']"
+Patient 77,40,Liver Cancer,"['Erlotinib – Targeted therapy', 'Imatinib – Tyrosine kinase inhibitor', 'Carboplatin – Platinum-based']"
+Patient 78,27,Liver Cancer,"['Erlotinib – Targeted therapy', 'Imatinib – Tyrosine kinase inhibitor']"
+Patient 79,34,Prostate Cancer,"['Cyclophosphamide – Alkylating agent', 'Ifosfamide – Alkylating agent']"
+Patient 80,32,Prostate Cancer,['Trastuzumab – Monoclonal antibody']
+Patient 81,70,Leukemia,"['Methotrexate – Antimetabolite', 'Cyclophosphamide – Alkylating agent', 'Imatinib – Tyrosine kinase inhibitor', 'Paclitaxel – Antimicrotubule agent']"
+Patient 82,42,Prostate Cancer,"['Trastuzumab – Monoclonal antibody', 'Imatinib – Tyrosine kinase inhibitor']"
+Patient 83,58,Lung Cancer,['Cisplatin – Platinum-based']
+Patient 84,72,Skin Cancer,['Methotrexate – Antimetabolite']
+Patient 85,25,Lung Cancer,"['Methotrexate – Antimetabolite', 'Cisplatin – Platinum-based']"
+Patient 86,77,Breast Cancer,['Carboplatin – Platinum-based']
+Patient 87,68,Ovarian Cancer,['Cisplatin – Platinum-based']
+Patient 88,67,Leukemia,"['Doxorubicin – Anthracycline', 'Methotrexate – Antimetabolite']"
+Patient 89,73,Colon Cancer,"['Erlotinib – Targeted therapy', 'Cisplatin – Platinum-based']"
+Patient 90,32,Skin Cancer,"['Doxorubicin – Anthracycline', 'Paclitaxel – Antimicrotubule agent']"
+Patient 91,42,Skin Cancer,"['Imatinib – Tyrosine kinase inhibitor', 'Cisplatin – Platinum-based', 'Erlotinib – Targeted therapy']"
+Patient 92,70,Lung Cancer,['Trastuzumab – Monoclonal antibody']
+Patient 93,63,Lymphoma,['Trastuzumab – Monoclonal antibody']
+Patient 94,39,Breast Cancer,"['Erlotinib – Targeted therapy', 'Doxorubicin – Anthracycline']"
+Patient 95,31,Breast Cancer,"['Erlotinib – Targeted therapy', 'Imatinib – Tyrosine kinase inhibitor']"
+Patient 96,52,Breast Cancer,['Cyclophosphamide – Alkylating agent']
+Patient 97,43,Lung Cancer,"['Doxorubicin – Anthracycline', 'Imatinib – Tyrosine kinase inhibitor', 'Cisplatin – Platinum-based', 'Ifosfamide – Alkylating agent']"
+Patient 98,44,Lymphoma,['Carboplatin – Platinum-based']
+Patient 99,71,Leukemia,"['Ifosfamide – Alkylating agent', 'Trastuzumab – Monoclonal antibody', 'Methotrexate – Antimetabolite', 'Imatinib – Tyrosine kinase inhibitor']"
+Patient 100,65,Colon Cancer,"['Doxorubicin – Anthracycline', 'Erlotinib – Targeted therapy', 'Trastuzumab – Monoclonal antibody', 'Imatinib – Tyrosine kinase inhibitor']"
